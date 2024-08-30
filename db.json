@@ -4,128 +4,128 @@
         "id": "1",
         "Stand": "01",
         "name": "MR. PAPA",
-        "logo": "./src/img/logo_mrpapas.jpg",
+        "logo": "../src/img/logo_mrpapas.jpg",
         "phone": "1234567890",
         "days_open": "L-M-X-J-V-S-D",
         "schedule": "10:00 a.m - 10:00 p.m",
         "level": "1er Piso",
         "title": "Ricos Chanchos",
         "description" : "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-        "photo_menu_1" : "foto 1",
-        "photo_menu_2" : "foto 2",
-        "photo_menu_3" : "foto 3"
+        "photo_menu_1" : "../src/img/paap.jpg",
+        "photo_menu_2" : "../src/img/papa1 1.png",
+        "photo_menu_3" : "../src/img/mrpapas.jpg"
 
       },
       {
         "id": "2",
         "Stand": "02",
         "name": "RAFFOS",
-        "logo": "./src/img/logo_raffos.jpg",
+        "logo": "../src/img/logo_raffos.jpg",
         "phone": "1234567890",
         "days_open": "L-M-X-J-V-S-D",
         "schedule": "10:00 a.m - 10:00 p.m",
         "level": "1er Piso",
         "title": "Ricos Chanchos",
         "description" : "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-        "photo_menu_1" : "foto 1",
-        "photo_menu_2" : "foto 2",
-        "photo_menu_3" : "foto 3"
+        "photo_menu_1" : "../src/img/plato1.jpg",
+        "photo_menu_2" : "../src/img/rafoss-fondo.jpg",
+        "photo_menu_3" : "../src/img/logo_raffos.jpg"
 
       },
       {
         "id": "3",
         "Stand": "03",
         "name": "RINCON FRANCES",
-        "logo": "./src/img/logo_rinconfrances.jpeg",
+        "logo": "../src/img/logo_rinconfrances.jpeg",
         "phone": "1234567890",
         "days_open": "L-M-X-J-V-S-D",
         "schedule": "10:00 a.m - 10:00 p.m",
         "level": "1er Piso",
         "title": "Ricos Chanchos",
         "description" : "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-        "photo_menu_1" : "foto 1",
-        "photo_menu_2" : "foto 2",
-        "photo_menu_3" : "foto 3"
+        "photo_menu_1" : "../src/img/rincon1.jpg",
+        "photo_menu_2" : "../src/img/rincon2.jpg",
+        "photo_menu_3" : "../src/img/rincon3.jpg"
 
       },
       {
         "id": "4",
         "Stand": "04",
         "name": "DON FRANCISCO",
-        "logo": "./src/img/logo_donfrancisco.png",
+        "logo": "../src/img/logo_donfrancisco.png",
         "phone": "1234567890",
         "days_open": "L-M-X-J-V-S-D",
         "schedule": "10:00 a.m - 10:00 p.m",
         "level": "1er Piso",
         "title": "Ricos Chanchos",
         "description" : "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-        "photo_menu_1" : "foto 1",
-        "photo_menu_2" : "foto 2",
-        "photo_menu_3" : "foto 3"
+        "photo_menu_1" : "../src/img/donfra 1.jpg",
+        "photo_menu_2" : "../src/img/donfra 2.jpg",
+        "photo_menu_3" : "../src/img/donfra 3.jpg"
 
       },
       {
         "id": "5",
         "Stand": "05",
         "name": "MAGGI",
-        "logo": "./src/img/logo_rinconfrances.jpeg",
+        "logo": "../src/img/logo_rinconfrances.jpeg",
         "phone": "1234567890",
         "days_open": "L-M-X-J-V-S-D",
         "schedule": "10:00 a.m - 10:00 p.m",
         "level": "1er Piso",
         "title": "Ricos Chanchos",
         "description" : "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-        "photo_menu_1" : "foto 1",
-        "photo_menu_2" : "foto 2",
-        "photo_menu_3" : "foto 3"
+        "photo_menu_1" : "../src/img/paap.jpg",
+        "photo_menu_2" : "../src/img/papa1 1.png",
+        "photo_menu_3" : "../src/img/mrpapas.jpg"
 
       },
       {
         "id": "6",
         "Stand": "06",
         "name": "TULAS",
-        "logo": "./src/img/logo_rinconfrances.jpeg",
+        "logo": "../src/img/logo_rinconfrances.jpeg",
         "phone": "1234567890",
         "days_open": "L-M-X-J-V-S-D",
         "schedule": "10:00 a.m - 10:00 p.m",
         "level": "1er Piso",
         "title": "Ricos Chanchos",
         "description" : "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-        "photo_menu_1" : "foto 1",
-        "photo_menu_2" : "foto 2",
-        "photo_menu_3" : "foto 3"
+        "photo_menu_1" : "../src/img/paap.jpg",
+        "photo_menu_2" : "../src/img/papa1 1.png",
+        "photo_menu_3" : "../src/img/mrpapas.jpg"
 
       },
       {
         "id": "7",
         "Stand": "07",
         "name": "BRAVAZO",
-        "logo": "./src/img/logo_rinconfrances.jpeg",
+        "logo": "../src/img/logo_rinconfrances.jpeg",
         "phone": "1234567890",
         "days_open": "L-M-X-J-V-S-D",
         "schedule": "10:00 a.m - 10:00 p.m",
         "level": "1er Piso",
         "title": "Ricos Chanchos",
         "description" : "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-        "photo_menu_1" : "foto 1",
-        "photo_menu_2" : "foto 2",
-        "photo_menu_3" : "foto 3"
+        "photo_menu_1" : "../src/img/paap.jpg",
+        "photo_menu_2" : "../src/img/papa1 1.png",
+        "photo_menu_3" : "../src/img/mrpapas.jpg"
 
       },
       {
         "id": "8",
         "Stand": "08",
         "name": "DELYS",
-        "logo": "./src/img/logo_rinconfrances.jpeg",
+        "logo": "../src/img/chanchos.jpeg",
         "phone": "1234567890",
         "days_open": "L-M-X-J-V-S-D",
         "schedule": "10:00 a.m - 10:00 p.m",
         "level": "1er Piso",
         "title": "Ricos Chanchos",
         "description" : "Ven y disfruta de los más ricos chicharrones y sánguches tradicionales de Chimbote.",
-        "photo_menu_1" : "foto 1",
-        "photo_menu_2" : "foto 2",
-        "photo_menu_3" : "foto 3"
+        "photo_menu_1" : "../src/img/delys 1.jpg",
+        "photo_menu_2" : "../src/img/delys 2.jpg",
+        "photo_menu_3" : "../src/img/delys 3.jpg"
 
       }
     ]
