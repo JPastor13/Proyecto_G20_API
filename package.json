@@ -1,9 +1,9 @@
 {
   "name": "proyecto_g20_api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "server": "json-server --watch db.json"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
