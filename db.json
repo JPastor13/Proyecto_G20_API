@@ -3,7 +3,7 @@
     {
       "id": "1",
       "Stand": "01",
-      "name": "MR. PAPA",
+      "name": "MR. PAPAS",
       "logo": "../src/img/logo_mrpapas.jpg",
       "phone": "1234567890",
       "days_open": "L-M-X-J-V-S-D",
@@ -129,7 +129,6 @@
       "photo_primary": "../src/img/delys_principal.jpg"
     }
   ],
-
   "events": [
     {
       "id": "1",
